@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "title": "YT-DLP Web Ui"
+  "healthCheckPath": "/",
+  "httpPort": 3033,
+  "addons": {
+    "localstorage": {}
+  },
+ "manifestVersion": 2
+}
